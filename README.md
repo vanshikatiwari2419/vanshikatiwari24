@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Vanshika Tiwari</h1>
 
-<h3 align="center">B.Tech CSE Student | AI/ML Enthusiast | Aspiring Full Stack Developer</h3>
+
+<h3 align="center">Aspiring Machine Learning Engineer | AI/ML & Full Stack Development | DSA & Problem Solving</h3>
 
 <p align="center">
   Passionate about building intelligent solutions and meaningful web applications.
